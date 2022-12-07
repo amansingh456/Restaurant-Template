@@ -21,3 +21,7 @@ https://resto-template.netlify.app/
 
 
 ## Screenshots
+![](https://github.com/amansingh456/Restaurant-Template/blob/master/Screenshot%20(58).png)
+![](https://github.com/amansingh456/Restaurant-Template/blob/master/Screenshot%20(59).png)
+![](https://github.com/amansingh456/Restaurant-Template/blob/master/Screenshot%20(60).png)
+![](https://github.com/amansingh456/Restaurant-Template/blob/master/Screenshot%20(61).png)
