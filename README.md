@@ -1,6 +1,6 @@
 # Restaurent-Template
 
-This is an Restaurent Template, where user can take a look how nay restaurent website looks. I have used Onlu HTML and CSS. Please have a look on this repo. You can find the deployed link below...
+This is an Restaurent Template, where user can take a look how any restaurent website looks. I have used Only HTML and CSS. Please have a look on this repo. You can find the deployed link below...
 
 ## Deployed link -
 
